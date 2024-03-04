@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nguyentran4804
 - 👀 Try my best to become software engineer
 - 🌱 I’m currently learning in Gia Định high school
+- ✨ And now I'am an UIT-er student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
